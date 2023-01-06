@@ -1,0 +1,28 @@
+﻿  SceneA2.cpp
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(378,120): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(425,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(425,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(430,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(430,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(435,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(435,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(440,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(440,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(445,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(445,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(450,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(450,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(456,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(456,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(461,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(461,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(466,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(466,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(471,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(471,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(1003,29): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(1016,40): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(1024,40): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(1031,40): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Application\Source\SceneA2.cpp(1038,40): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Application.vcxproj -> C:\Users\yuzhe\source\repos\DM2122\Assignment_2\Debug\Application.exe
